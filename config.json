@@ -3,11 +3,11 @@
   "proxy": "",
   "single_chat_prefix": [
     "bot",
-    "@bot","ben","笨"
+    "@bot","ben","笨","本"
   ],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": [
-    "@bot","ben","笨"
+    "@bot","ben","笨","本"
   ],
   "group_name_white_list": [
     "ChatGPT测试群",
