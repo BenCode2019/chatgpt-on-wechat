@@ -3,26 +3,26 @@
   "proxy": "",
   "single_chat_prefix": [
     "bot",
-    "@bot"
+    "@bot","ben"
   ],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": [
-    "@bot"
+    "@bot","ben"
   ],
   "group_name_white_list": [
     "ChatGPT测试群",
-    "冕宝天双"
+    "冕宝天双","AI问答"
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    "ChatGPT测试群","AI问答"
   ],
   "image_create_prefix": [
     "画",
     "看",
     "找"
   ],
-  "speech_recognition": false,
-  "group_speech_recognition": false,
+  "speech_recognition": true,
+  "group_speech_recognition": true,
   "voice_reply_voice": false,
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
